@@ -2,7 +2,7 @@
 
 A RESTful Job Application Tracker built using Node.js, Express, MongoDB, and JWT authentication.
 
-## 🚀 Features
+## Features
 
 - User Registration
 - User Login (JWT Authentication)
@@ -26,7 +26,7 @@ A RESTful Job Application Tracker built using Node.js, Express, MongoDB, and JWT
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Auth Routes
 POST `/api/auth/register`  
@@ -41,7 +41,7 @@ GET `/api/jobs/stats`
 
 ---
 
-## 🔐 Authentication
+##  Authentication
 
 All job routes require:
 
@@ -51,7 +51,7 @@ Bearer <JWT_TOKEN>
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/smart-job-tracker.git
